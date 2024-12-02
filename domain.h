@@ -8,7 +8,7 @@
 #include "groceries.h"
 #include "bakery.h"
 #include "frozen_foods.h"
-#include "non-alcoholic_beverages.h"
+#include "non_alcoholic_beverages.h"
 #include "alcoholic_beverages.h"
 #include "tea_and_coffee.h"
 #include "pets_foods.h"

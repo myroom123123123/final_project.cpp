@@ -50,7 +50,7 @@
     <ClInclude Include="frozen_foods.h">
       <Filter>domain\products</Filter>
     </ClInclude>
-    <ClInclude Include="non-alcoholic_beverages.h">
+    <ClInclude Include="non_alcoholic_beverages.h">
       <Filter>domain\products</Filter>
     </ClInclude>
     <ClInclude Include="alcoholic_beverages.h">

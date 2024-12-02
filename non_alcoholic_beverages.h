@@ -1,5 +1,5 @@
-#ifndef NON-ALCOHOLIC_BEVERAGES
-#define NON-ALCOHOLIC_BEVERAGES
+#ifndef NON_ALCOHOLIC_BEVERAGES
+#define NON_ALCOHOLIC_BEVERAGES
 
 #include "lib.h"
 
@@ -84,4 +84,4 @@ public:
 	}
 };
 
-#endif // !NON-ALCOHOLIC_BEVERAGES
+#endif // !NON_ALCOHOLIC_BEVERAGES

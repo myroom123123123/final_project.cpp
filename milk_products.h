@@ -56,16 +56,10 @@ public:
 	}
 };
 
-class Milk_Products_Manager: public MilkProducts {
+class Milk_Products_Manager : public MilkProducts {
 private:
 	vector<MilkProducts> _milk_products;
 public:
-	// Constructors
-	void add_milk_product(string name, double price, double fat_content, double volume) {
-		MilkProducts milk_product(name, price, fat_content, volume);
-		_milk_products.push_back(milk_product);
-
-	}
 	// Methods
 	void add_milk_product(string name, double price, double fat_content, double volume) {
 		MilkProducts milk_product(name, price, fat_content, volume);
