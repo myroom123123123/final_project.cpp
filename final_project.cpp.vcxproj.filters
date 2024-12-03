@@ -13,6 +13,9 @@
     <Filter Include="domain\products">
       <UniqueIdentifier>{113336a8-3f61-45b3-9d9f-f1045a21798b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="namespaces">
+      <UniqueIdentifier>{1b19c126-feff-4e35-84e8-59d2f576415c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -64,6 +67,9 @@
     </ClInclude>
     <ClInclude Include="productsmanagment.h">
       <Filter>domain\products</Filter>
+    </ClInclude>
+    <ClInclude Include="namespaces.h">
+      <Filter>namespaces</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

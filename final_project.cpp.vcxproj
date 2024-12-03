@@ -140,6 +140,7 @@
     <ClInclude Include="lib.h" />
     <ClInclude Include="meat_products.h" />
     <ClInclude Include="milk_products.h" />
+    <ClInclude Include="namespaces.h" />
     <ClInclude Include="non_alcoholic_beverages.h" />
     <ClInclude Include="pets_foods.h" />
     <ClInclude Include="productsmanagment.h" />
